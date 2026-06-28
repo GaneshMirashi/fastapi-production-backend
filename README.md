@@ -4,7 +4,7 @@ Production-grade backend built using FastAPI with scalable architecture, JWT aut
 
 ---
 
-# Project Goal
+# Project Goal 
 
 This project is being built to learn and implement real-world backend engineering concepts using FastAPI.
 
